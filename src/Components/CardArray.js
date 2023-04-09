@@ -18,6 +18,7 @@ const CardArray = ({ robots }, searchField) => {
         email={robo.email}
       />
     );
+    //mjhsdgfs
   });
 
   //function completed
